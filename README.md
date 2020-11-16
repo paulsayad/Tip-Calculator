@@ -37,9 +37,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-* Nothing too challenging right now, as everything was pretty simple espicially with the guide. 
-  However, I wish I found out about this oppurtinity earlier so I could've started earlier and had more time.
-  I would've definitely added more features in the app and not just the bare mininum. Although, I still learned a lot and had fun making it.
+* Nothing too challenging right now, as everything was pretty simple especially with the guide. However, I wish I found out about this opportunity earlier so I       could've started earlier and had more time. I would've definitely added more features in the app and not just the bare minimum. Although, I still learned a lot     and had fun making it.
 
 ## License
 
