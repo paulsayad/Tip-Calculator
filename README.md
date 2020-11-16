@@ -1,5 +1,5 @@
 # tip_calculator
-# Pre-work - *Name of App Here*
+# Pre-work - Tip Calculator
 
 Tip Calculator is a tip calculator application for iOS.
 
