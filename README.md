@@ -5,7 +5,7 @@ A tip calculator application for iOS.
 
 Submitted by: Paul Sayad
 
-Time spent: 2 hours spent in total
+Time spent: 3 hours spent in total
 
 ## User Stories
 
@@ -29,15 +29,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/sCZA690ZVx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [RecordIt](https://recordit.co/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-* Nothing too challenging right now, as everything was pretty simple especially with the guide. However, I wish I found out about this opportunity earlier so I       could've started earlier and had more time. I would've definitely added more features in the app and not just the bare minimum. Although, I still learned a lot     and had fun making it.
+* Nothing too challenging right now, as everything was pretty simple especially with the guide. I learned a lot and had fun making it.
 
 ## License
 
